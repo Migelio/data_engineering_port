@@ -1,0 +1,12 @@
+order_id,customer_name,product,quantity,price,total,order_date
+0,Tony Carey,Laptop Stand,4,1699.15,6796.6,2025-04-16
+1,Alexander Walters,HDMI Cable,1,679.15,679.15,2025-05-03
+2,Rebecca Woodard,Portable SSD,4,8499.15,33996.6,2025-06-09
+3,Nicole Oliver,Laptop Stand,1,1699.15,1699.15,2025-06-09
+4,Paul Fernandez,Webcam,4,3395.75,13583.0,2025-03-26
+5,Michael Taylor,Smartphone Holder,1,1061.65,1061.65,2025-05-08
+6,Emily Rhodes,Webcam,2,3395.75,6791.5,2025-05-01
+7,Timothy Garcia,Webcam,2,3395.75,6791.5,2025-05-15
+8,Kimberly Wright,Mechanical Keyboard,1,7641.5,7641.5,2025-04-23
+9,Erica Davis,Gaming Monitor,1,21249.15,21249.15,2025-03-17
+10,Dr. Warren Garcia,Noise-Cancelling Headphones,3,11007.5,33022.5,2025-04-09
